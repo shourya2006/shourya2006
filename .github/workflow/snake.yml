@@ -1,32 +1,44 @@
+# 🐍 GitHub Action to generate a contribution graph snake animation
 name: Generate Snake
 
 on:
   schedule:
+    # Run every 12 hours
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+
 jobs:
   build:
     name: Generate GitHub Contribution Snake
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: 🧩 Clone repository
         uses: actions/checkout@v4
-
-      - name: Generate snake (dark theme)
+    
+      - name: 🐍 Generate the snake files
         uses: Platane/snk@v3
+        id: snake-gif
         with:
           github_user_name: shourya2006
           outputs: |
+            dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.snake }}
 
-      - name: Push generated snake to output branch
+      - name: 📦 Show build status
+        run: git status
+
+      - name: 🚀 Push generated snake files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          commit_message: Update snake animation
         env:
           GITHUB_TOKEN: ${{ secrets.snake }}
