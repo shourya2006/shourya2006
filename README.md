@@ -20,10 +20,14 @@
 ```ts
 const shourya = {
   role: "Full-stack & AI Engineer",
-  studying: "B.Tech CS & AI @ Newton School of Technology, Rishihood University",
+  studying: "B.Tech CS & AI @ Newton School of Technology",
   building: ["NextFlow", "Rashtram AI"],
   openSource: "Oppia: 3 pull requests in review",
-  competitive: { codeforces: "1300+", codechef: "1600+", leetcode: "330+ solved" },
+  competitive: {
+    codeforces: "1300+",
+    codechef: "1600+",
+    leetcode: "330+ solved",
+  },
   ai: ["OpenAI", "Gemini", "Pinecone", "RAG", "scikit-learn"],
   learning: ["Docker", "AWS", "Supabase", "n8n"],
   funFact: "I debug faster than I cook Maggi 🍜",
