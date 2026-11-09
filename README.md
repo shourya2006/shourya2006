@@ -38,9 +38,9 @@ const shourya = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,cpp,react,nextjs,tailwind,html,css,nodejs,express,postgres,mongodb,prisma,firebase,git,github,vercel,figma,sklearn&perline=10&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,cpp,react,nextjs,tailwind,html,css,nodejs,express,postgres,mongodb,prisma,firebase,git,github,vercel,figma,sklearn&perline=10&theme=light" />
-    <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,react,nextjs,tailwind,html,css,nodejs,express,postgres,mongodb,prisma,firebase,git,github,vercel,figma,sklearn&perline=10&theme=dark" alt="TypeScript, JavaScript, Python, C++, React, Next.js, Tailwind CSS, HTML, CSS, Node.js, Express, PostgreSQL, MongoDB, Prisma, Firebase, Git, GitHub, Vercel, Figma, scikit-learn" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Ccpp%2Creact%2Cnextjs%2Ctailwind%2Chtml%2Ccss%2Cnodejs%2Cexpress%2Cpostgres%2Cmongodb%2Cprisma%2Cfirebase%2Cgit%2Cgithub%2Cvercel%2Cfigma%2Csklearn&perline=10&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Ccpp%2Creact%2Cnextjs%2Ctailwind%2Chtml%2Ccss%2Cnodejs%2Cexpress%2Cpostgres%2Cmongodb%2Cprisma%2Cfirebase%2Cgit%2Cgithub%2Cvercel%2Cfigma%2Csklearn&perline=10&theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cpy%2Ccpp%2Creact%2Cnextjs%2Ctailwind%2Chtml%2Ccss%2Cnodejs%2Cexpress%2Cpostgres%2Cmongodb%2Cprisma%2Cfirebase%2Cgit%2Cgithub%2Cvercel%2Cfigma%2Csklearn&perline=10&theme=dark" alt="TypeScript, JavaScript, Python, C++, React, Next.js, Tailwind CSS, HTML, CSS, Node.js, Express, PostgreSQL, MongoDB, Prisma, Firebase, Git, GitHub, Vercel, Figma, scikit-learn" />
   </picture>
 </p>
 
