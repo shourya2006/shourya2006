@@ -17,22 +17,11 @@
 
 ### About me
 
-```ts
-const shourya = {
-  role: "Full-stack & AI Engineer",
-  studying: "B.Tech CS & AI @ Newton School of Technology",
-  building: ["NextFlow", "Rashtram AI"],
-  openSource: "Oppia: 3 pull requests in review",
-  competitive: {
-    codeforces: "1300+",
-    codechef: "1600+",
-    leetcode: "330+ solved",
-  },
-  ai: ["OpenAI", "Gemini", "Pinecone", "RAG", "scikit-learn"],
-  learning: ["Docker", "AWS", "Supabase", "n8n"],
-  funFact: "I debug faster than I cook Maggi 🍜",
-};
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg" />
+  <img src="./assets/about-dark.svg" width="100%" alt="Role: Full-stack & AI Engineer. Studying: B.Tech CS & AI at Newton School of Technology. Building: NextFlow and Rashtram AI. Open source: Oppia, 3 pull requests in review. Competitive: Codeforces 1300+, CodeChef 1600+, LeetCode 330+. AI: OpenAI, Gemini, Pinecone, RAG, scikit-learn. Learning: Docker, AWS, Supabase, n8n. Fun fact: I debug faster than I cook Maggi." />
+</picture>
 
 ### Tech stack
 
