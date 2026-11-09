@@ -1,74 +1,124 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shourya2006.shourya2006" />
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shourya+Bafna!;" />
-</h1>
-
-<h3 align="center">A passionate software developer from India 🇮🇳</h3>
-
-<br/>
-
 <div align="center">
 
- 🔭 I’m currently contributing to **open source projects**  
- 💼 I’m an **intern at RashtramAI**  
- 🌱 I’m learning **Docker, Supabase, AWS, n8n, and Machine Learning**  
- 💬 Ask me about **Node.js, React, Express, Prisma, Firebase, or any full-stack topic**  
- ⚡ Fun fact — **I debug faster than I cook Maggi 🍜**
+<img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&center=true&vCenter=true&width=640&height=60&duration=3500&pause=800&color=E6EDF3&lines=Hi%2C+I%27m+Shourya+Bafna+%F0%9F%91%8B;Full-stack+%26+AI+Engineer;I+build+AI+products+that+ship" alt="Hi, I'm Shourya Bafna — Full-stack & AI Engineer" />
+
+**B.Tech CS & AI @ Newton School of Technology, Rishihood University · India 🇮🇳**
+
+I build full-stack apps with practical AI inside them: visual AI workflows, retrieval-augmented assistants and policy-research tools.
+
+<a href="https://portfoliomain-eosin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/shourya-bafna-80a670215"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:bafna.shourya2023@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/u/ShouryaW/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://codeforces.com/profile/Kraven"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+<a href="https://www.codechef.com/users/algo_x_addict"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=shourya2006.shourya2006" alt="Profile visitors" />
 
 </div>
-
-<hr/>
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shourya-bafna-80a670215)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shourya.bafna2024@nst.rishihood.edu.in)
-
-<hr/>
-
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" /><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div>
-
-<hr/>
-
-<h2 align="center">🏅 Holopin Board 🏅</h2>
-<div align="center">
-  <a href="https://holopin.me/shourya2006">
-    <img src="https://holopin.me/shourya2006" alt="@shourya2006's Holopin board" />
-  </a>
-</div>
-
-<hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shourya2006/shourya2006/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<hr/>
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shourya2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=shourya2006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shourya2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shourya2006&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shourya2006&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=shourya2006&icon=0&color=0)](https://visitcount.itsvg.in)
+### ⚡ Right now
 
-<br/>
+- 🧠 Building **NextFlow**, a node-based AI workflow builder, and **Rashtram AI**, source-grounded search over Indian laws and policies
+- 🌍 Contributing to **[Oppia](https://github.com/oppia/oppia)**: 3 pull requests in review (backend test coverage and Playwright acceptance-test migrations)
+- 🏆 Competitive programming: **Codeforces 1300+**, **CodeChef 1600+**, **330+ LeetCode** problems solved
+- 🌱 Learning **Docker, AWS, Supabase and n8n**
+- ⚡ Fun fact: I debug faster than I cook Maggi 🍜
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://nextflow193.vercel.app"><img src="https://portfoliomain-eosin.vercel.app/images/projects/nextflow.png" alt="NextFlow screenshot" /></a>
+      <h4>NextFlow</h4>
+      Visual workflow builder that chains LLM, text, image and video nodes, with async execution on Trigger.dev.<br/>
+      <sub>Next.js · React Flow · Gemini · Trigger.dev · PostgreSQL · Prisma</sub><br/>
+      <a href="https://nextflow193.vercel.app">Live</a> · <a href="https://github.com/shourya2006/NextFlow">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://rashtram-ai.vercel.app"><img src="https://portfoliomain-eosin.vercel.app/images/projects/rashtram-ai.png" alt="Rashtram AI screenshot" /></a>
+      <h4>Rashtram AI</h4>
+      Explore Indian Bills, Acts and policies with grounded AI summaries and chat that cites its sources.<br/>
+      <sub>Next.js · Express · PostgreSQL · Pinecone · OpenAI</sub><br/>
+      <a href="https://rashtram-ai.vercel.app">Live</a> · <a href="https://github.com/shourya2006/Rashtram-AI">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://vortex-jet.vercel.app/"><img src="https://portfoliomain-eosin.vercel.app/images/projects/vortex.png" alt="Vortex screenshot" /></a>
+      <h4>Vortex</h4>
+      AI study assistant: RAG over your notes, question answering and KaTeX math rendering in one chat.<br/>
+      <sub>TypeScript · Node.js · Express · Pinecone · OpenAI</sub><br/>
+      <a href="https://vortex-jet.vercel.app/">Live</a> · <a href="https://github.com/shourya2006/Vortex">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://solveiq.vercel.app"><img src="https://portfoliomain-eosin.vercel.app/images/projects/solveiq.png" alt="SolveIQ screenshot" /></a>
+      <h4>SolveIQ</h4>
+      One dashboard for Codeforces, LeetCode and CodeChef progress, with heatmaps and AI problem picks.<br/>
+      <sub>React · Vite · Tailwind CSS · Codeforces / LeetCode / CodeChef APIs</sub><br/>
+      <a href="https://solveiq.vercel.app">Live</a> · <a href="https://github.com/shourya2006/SolveIQ">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://codeclash-1-bq57.onrender.com/"><img src="https://portfoliomain-eosin.vercel.app/images/projects/codeclash.png" alt="CodeClash screenshot" /></a>
+      <h4>CodeClash</h4>
+      Real-time 1v1 coding battles on Codeforces problems, with live submission checks.<br/>
+      <sub>React · Node.js · Express · Socket.IO</sub><br/>
+      <a href="https://codeclash-1-bq57.onrender.com/">Live</a> · <a href="https://github.com/shourya2006/CodeClash">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://trip-wallet-eosin.vercel.app"><img src="https://portfoliomain-eosin.vercel.app/images/projects/tripwallet.png" alt="Trip Wallet screenshot" /></a>
+      <h4>Trip Wallet</h4>
+      Split shared trip expenses and settle debts. Typed backend built around five design patterns.<br/>
+      <sub>TypeScript · Express · MongoDB · React · JWT</sub><br/>
+      <a href="https://trip-wallet-eosin.vercel.app">Live</a> · <a href="https://github.com/shourya2006/TripWallet-ReDesign">Code</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://portfoliomain-eosin.vercel.app/portfolio">See all projects on my portfolio →</a></p>
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <b>Languages</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp" alt="TypeScript, JavaScript, Python, C++" /><br/><br/>
+  <b>Frontend</b><br/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma" alt="React, Next.js, Tailwind CSS, HTML, CSS, Figma" /><br/><br/>
+  <b>Backend & data</b><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,firebase" alt="Node.js, Express, PostgreSQL, MongoDB, Prisma, Firebase" /><br/><br/>
+  <b>AI & ML</b><br/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white" alt="Pinecone" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" /><br/><br/>
+  <b>Tools</b><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" alt="Git, GitHub, Vercel, VS Code" />
+</p>
+
+---
+
+### 📈 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shourya2006&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/shourya2006/shourya2006/output/github-contribution-grid-snake-dark.svg" alt="Snake eating my contribution graph" />
+</p>
+
+<details>
+  <summary><b>🏅 Holopin badges</b></summary>
+  <br/>
+  <a href="https://holopin.me/shourya2006"><img src="https://holopin.me/shourya2006" alt="@shourya2006's Holopin board" /></a>
+</details>
